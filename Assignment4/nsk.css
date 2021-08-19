@@ -1,0 +1,55 @@
+body{
+    background-color:wheat;
+}
+.number{
+    box-sizing:inherit;
+    font-size: 50px;
+    word-wrap: 10px;
+    font-weight:bold;
+    color:orangered;
+}
+h1{
+    text-align: center;
+    position: fixed;
+    margin:-3px 310px;
+    background-color: skyblue;
+    width:1000px;
+    height: 60px;
+    border-radius: 20px;
+}
+.nsk img{
+    width: 1519px;
+    margin:15px -9px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    border:2px solid black;
+    width:20%;
+    margin:0px 600px;
+    color: blue;
+}
+img{
+    width:1000px;
+    margin: -1px 287px;
+}
+h3{
+    font-size: 40px;
+    margin: 8px 112px;
+    font-family: cambria;
+    border:4px solid black;
+    width:220px;
+    height:100px;
+    background-color: coral;
+    border-radius: 40px;
+    text-align: center;
+}
+p{
+    font-size:18px;
+    margin:7px 39px;
+    font-family: cambria;
+}
+.place img{
+    width:500px;
+    margin: -1px 500px;
+}

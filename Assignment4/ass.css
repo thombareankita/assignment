@@ -1,0 +1,32 @@
+body{
+     background-image: url("img/pedro.jpg");
+     background-repeat: no-repeat;
+     background-size: 1559px;
+     background-position: top;
+}
+h1{
+    text-align: center;
+    margin: 164px 319px;
+    background-color: bisque;
+    width: 871px;
+    height: 60px;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn{
+    width: 264px;
+    height: 60px;
+    margin: -105px 600px;
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: coral;
+}
+.btn:hover{
+    background-color:purple;
+}
+a {
+    color:black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight:bold;
+}
